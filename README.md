@@ -28,4 +28,4 @@ problemas de verdade.
 
 ## 📫 Contato
 
-- LinkedIn: linkedin.com/in/[www.linkedin.com/in/hylo]
+- LinkedIn: (www.linkedin.com/in/hylo)
