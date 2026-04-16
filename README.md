@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Hylo 👋
 
-<!--
-**HyloSantos/HyloSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnico de TI com mais de 7 anos de experiência em suporte técnico N1/N2, 
+infraestrutura de redes, hardware e atendimento presencial e remoto.
 
-Here are some ideas to get you started:
+Ao longo da carreira passei por ambientes bem diferentes — aeroporto, banco, 
+campo e provedor de internet, o que me deu uma base ampla pra resolver 
+problemas de verdade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ O que eu faço
+
+- Suporte técnico N1/N2
+- Infraestrutura de redes (configuração, diagnóstico, otimização)
+- Hardware (manutenção, montagem, periféricos)
+- Acesso remoto (AnyDesk, TeamViewer, SSH)
+- Scripts BAT e BASH
+- Windows e Linux
+- Registro e acompanhamento de chamados (ITSM)
+
+## 📚 Atualmente estudando
+
+- Linux (aprofundamento)
+- SQL
+- Redes e infraestrutura
+- CompTIA A+ Core 1, Core 2
+
+## 📫 Contato
+
+- LinkedIn: linkedin.com/in/[www.linkedin.com/in/hylo]
